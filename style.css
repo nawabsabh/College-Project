@@ -1,3 +1,6 @@
-h1{
-    color: burlywood;
+body {
+    background-image: url('backgorund\ image\ .jpg');
+    background-size: cover; /* Makes the image cover the entire area */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
 }
